@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556971630107",
+    "project_id": "fir-feedback-demo",
+    "storage_bucket": "fir-feedback-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556971630107:android:2c9d1be0c721186c13a2be",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_firebase_feedback_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjyjekyTArJTKaVDh6C4HKJAWrGPA8Hyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
